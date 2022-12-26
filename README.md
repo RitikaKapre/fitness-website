@@ -7,5 +7,9 @@ A simple website based on a gym (fitness center) for its costumer interaction wi
 5. Contact us page
 6. A gallery
 
--------------------Home page------------------
+----------------------------------------Home page---------------------------------
 ![Screenshot (680)](https://user-images.githubusercontent.com/78146750/209555580-d120441b-ebc8-49ff-ad84-d533be652a5e.png)
+
+----------------------------------------Contact us page----------------------------
+![Screenshot (681)](https://user-images.githubusercontent.com/78146750/209555664-30df8cf6-db25-4d2e-a472-2e3dcea3a2c5.png)
+
